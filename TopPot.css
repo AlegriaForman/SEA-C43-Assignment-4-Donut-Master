@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+
+.info {
+  border: 2;
+}
+
+.head {
+  background-color: #6d7b8d;
+  color: white;
+  font-size: 20px;
+}
+
+tr.even td, tr.even th {
+  background-color: #95b9c7;
+  text-align: center;
+}
+
+tr.odd td, tr.odd th {
+  background-color: #bcc6cc;
+  text-align: center;
+}
+
+body {
+  background: url(http://timali4man.com/Images/Donuts3.jpeg) no-repeat center;
+  background-size: cover;
+}
+  tr, td {
+    font-size: 15px;
+}
