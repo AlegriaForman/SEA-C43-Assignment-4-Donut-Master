@@ -12,6 +12,7 @@ h1 {
   background-color: #6d7b8d;
   color: white;
   font-size: 20px;
+  font-family: Arial Verdana Sans-serif;
 }
 
 tr.even td, tr.even th {
@@ -27,6 +28,7 @@ tr.odd td, tr.odd th {
 body {
   background: url(http://timali4man.com/Images/Donuts3.jpeg) no-repeat center;
   background-size: cover;
+  font-family: Arial Verdana Sans-serif;
 }
   tr, td {
     font-size: 15px;
